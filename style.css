@@ -241,7 +241,7 @@ video {
     background-color: #95C11E;
     padding: 30px;
     padding-top: 80px;
-    opacity: 0;
+    opacity: 1;
     transition: all ease 0.6s;
 }
 .overlay h4 {
