@@ -254,7 +254,7 @@ video {
 }
 .overlay p {
     color: #000;
-    font-size: 22px;
+    font-size: 20px;
 }
 .card:hover .overlay{
     opacity: 1;
